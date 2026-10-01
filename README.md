@@ -117,8 +117,7 @@ I'm currently focused on becoming a stronger software professional by improving 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[www.linkedin.com/in/
-yogesh-pawar9860](https://www.linkedin.com/in/yogesh-pawar9860/)">
+  <a href="https://www.linkedin.com/in/yogesh-pawar9860/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
